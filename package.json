@@ -2,6 +2,7 @@
     "name": "portfolio",
     "version": "0.1.0",
     "private": true,
+    "https":"//github.com/bijaysharma8335/personal-portfolio.git",
     "dependencies": {
         "cra-template": "1.2.0",
         "framer-motion": "^11.15.0",
